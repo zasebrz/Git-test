@@ -1,6 +1,1 @@
 hello git!
-hello freewheel!
-this is local edit!
-hello guigu!
-hello, this is remode edit!
-local edit!
