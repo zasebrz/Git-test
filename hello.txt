@@ -1,5 +1,2 @@
 hello git!
 master edit!
-hello guigu!
-hot edit!
-new green!
